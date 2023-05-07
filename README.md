@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marcelmalewski&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=marcelmalewski&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=marcelmalewski&theme=dracula&hide_current_streak=true)](https://git.io/streak-stats)
