@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelmalewski&count_private=true&theme=dracula)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=marcelmalewski)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelmalewski&exclude_repo=ai-labs&count_private&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marcelmalewski&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
