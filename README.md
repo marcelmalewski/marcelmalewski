@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=marcelmalewski&theme=dracula&starting_year=2023)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelmalewski&exclude_repo=ai-labs&hide=html,css,scss&langs_count=12&count_private&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelmalewski&exclude_repo=ai-labs&hide=html,css,scss&langs_count=8&count_private&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marcelmalewski&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
